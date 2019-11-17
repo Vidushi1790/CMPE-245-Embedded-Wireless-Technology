@@ -1,0 +1,4 @@
+gpio.c:20:6:GPIOinitIn	16	static
+gpio.c:41:6:GPIOinitOut	16	static
+gpio.c:65:6:setGPIO	16	static
+gpio.c:83:6:clearGPIO	16	static

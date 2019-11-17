@@ -1,0 +1,14 @@
+myLisa.c:81:6:convertDataToBinary	24	static
+myLisa.c:90:6:create_data_packet	16	static
+myLisa.c:99:6:convert_data_packet	24	static
+myLisa.c:112:6:convert_8_bits_to_char	32	static
+myLisa.c:125:6:reconvert_data_packet	40	static
+myLisa.c:145:6:print_buffer	24	static
+myLisa.c:158:6:create_data_file	24	static
+myLisa.c:177:7:read_data_file	16	static
+myLisa.c:198:6:print_file_data	16	static
+myLisa.c:216:6:check_confidence_and_ret_payload	48	static
+myLisa.c:252:6:check_confidence_and_return_payload	56	static
+myLisa.c:290:5:create_corrupted_sync_code	40	static
+myLisa.c:319:6:detect_and_print_payload	32	static
+myLisa.c:327:6:print_sync_packet	24	static
